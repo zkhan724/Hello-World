@@ -1,2 +1,12 @@
-# Hello-World
-Getting into the world of coding!
+package com.perscholas;
+
+public class Sandbox
+{
+	public static void main(String[] args) 
+  {
+	
+    System.out.println("Hello World! Welcome to Java!"); // output
+
+	}
+
+}
